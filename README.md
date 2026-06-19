@@ -12,4 +12,4 @@ Command to commit if ui not work
 These commands always works if the setup is correct
 1.git add -A
 2.git commit -m "some message"
-git push
+3.git push
